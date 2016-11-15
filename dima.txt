@@ -3,3 +3,5 @@
 =======
 new line
 >>>>>>> parent of 6931742... test
+
+branch
