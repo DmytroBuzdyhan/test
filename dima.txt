@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 222111 new line
+=======
+new line
+>>>>>>> parent of 6931742... test
